@@ -1,0 +1,28 @@
+.background{
+    background-color: rgb(132, 218, 245);
+}
+
+.img{
+    margin-top: 15px;
+    text-align: center;
+    height: 8cm;
+}
+
+.heading{
+    text-decoration: underline;
+}
+
+.information{
+    margin-top: 13%;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.para{
+    margin-top: 2%;
+}
+
+.footer{
+    text-align: center;
+}
